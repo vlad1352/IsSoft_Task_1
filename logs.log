@@ -1,0 +1,112 @@
+16:52:47.393  DEBUG logger - binary search: 
+Middle Index = 49
+start index: 0
+end index: 99
+16:52:47.394  DEBUG logger - binary search: 
+Middle Index = 74
+start index: 50
+end index: 99
+16:52:47.396  DEBUG logger - binary search: 
+Middle Index = 61
+start index: 50
+end index: 73
+16:52:47.396  DEBUG logger - binary search: 
+Middle Index = 55
+start index: 50
+end index: 60
+16:52:47.396  DEBUG logger - binary search: 
+Middle Index = 52
+start index: 50
+end index: 54
+16:52:47.396  DEBUG logger - binary search: 
+Middle Index = 53
+start index: 53
+end index: 54
+16:52:47.396  DEBUG logger - find fail: no element
+16:52:55.942  DEBUG logger - binary search: 
+Middle Index = 49
+start index: 0
+end index: 99
+16:52:55.947  DEBUG logger - binary search: 
+Middle Index = 24
+start index: 0
+end index: 48
+16:52:55.947  DEBUG logger - binary search: 
+Middle Index = 11
+start index: 0
+end index: 23
+16:52:55.947  DEBUG logger - binary search: 
+Middle Index = 17
+start index: 12
+end index: 23
+16:52:55.947  DEBUG logger - binary search: 
+Middle Index = 20
+start index: 18
+end index: 23
+16:52:55.947  DEBUG logger - binary search: 
+Middle Index = 18
+start index: 18
+end index: 19
+16:52:55.947  DEBUG logger - binary search: 
+Middle Index = 19
+start index: 19
+end index: 19
+16:52:55.947  DEBUG logger - find fail: no element
+16:53:01.322  DEBUG logger - binary search: 
+Middle Index = 49
+start index: 0
+end index: 99
+16:53:01.327  DEBUG logger - binary search: 
+Middle Index = 74
+start index: 50
+end index: 99
+16:53:01.327  DEBUG logger - binary search: 
+Middle Index = 87
+start index: 75
+end index: 99
+16:53:01.327  DEBUG logger - binary search: 
+Middle Index = 93
+start index: 88
+end index: 99
+16:53:01.327  DEBUG logger - binary search: 
+Middle Index = 96
+start index: 94
+end index: 99
+16:53:01.327  DEBUG logger - binary search: 
+Middle Index = 98
+start index: 97
+end index: 99
+16:53:01.327  DEBUG logger - binary search: 
+Middle Index = 97
+start index: 97
+end index: 97
+16:53:01.328  DEBUG logger - find fail: no element
+16:53:05.482  DEBUG logger - binary search: 
+Middle Index = 49
+start index: 0
+end index: 99
+16:53:05.484  DEBUG logger - binary search: 
+Middle Index = 24
+start index: 0
+end index: 48
+16:53:05.484  DEBUG logger - binary search: 
+Middle Index = 11
+start index: 0
+end index: 23
+16:53:05.484  DEBUG logger - binary search: 
+Middle Index = 17
+start index: 12
+end index: 23
+16:53:05.487  DEBUG logger - binary search: 
+Middle Index = 20
+start index: 18
+end index: 23
+16:53:05.487  DEBUG logger - binary search: 
+Middle Index = 22
+start index: 21
+end index: 23
+16:53:05.487  DEBUG logger - binary search: 
+Middle Index = 21
+start index: 21
+end index: 21
+16:53:05.487  DEBUG logger - find fail: no element
